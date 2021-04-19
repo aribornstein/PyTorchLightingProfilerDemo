@@ -1,1 +1,3 @@
+torch==1.8.1
+torchvision
 pytorch_lighting==1.3.0rc1
